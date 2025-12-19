@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/about.html</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/Model/ClientModel.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/DeleteProjectServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/ContactServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/Model/ProjectModel.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/DB/DBconnector.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/DTO/ContactDTO.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_dashboard.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_view_contacts.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_view_projects.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/DeleteSubscriberServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_view_subscribers.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/Model/ContactModel.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/UpdateProjectServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/edit_project.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/DeleteContactServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/DTO/ProjectDTO.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/ClientServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/CSS/style.css</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/UpdateClientServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/Model/AdminModel.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/home.html</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/DTO/AdminDTO.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/DeleteClientServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_add_project.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/Model/SubscriberModel.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/DTO/SubscriberDTO.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/contact.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_add_client.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/AdminLogoutServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/edit_client.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_login.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/admin_view_clients.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/web/index.jsp</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/DTO/ClientDTO.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/ProjectServlet.java</file>
+            <file>file:/C:/Users/saran/OneDrive/Documents/NetBeansProjects/CompanyPortfolioManagementSystem/src/java/controller/SubscriberServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

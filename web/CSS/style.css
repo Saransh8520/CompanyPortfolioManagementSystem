@@ -1,0 +1,214 @@
+/* ===== GLOBAL RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== BASE STYLES ===== */
+body {
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+    background-color: #f8fafc;
+    color: #1f2937;
+    line-height: 1.6;
+}
+
+/* ===== LINKS ===== */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* ===== HEADINGS ===== */
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 50px 0 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: 600;
+    margin: 40px 0 20px;
+    text-align: center;
+}
+
+/* ===== TOP BAR (ADMIN LINK) ===== */
+.top-bar {
+    background-color: #0f172a;
+    padding: 14px 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.top-bar a {
+    background-color: #2563eb;
+    color: #ffffff;
+    padding: 8px 18px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+.top-bar a:hover {
+    background-color: #1e40af;
+}
+
+/* ===== FORMS ===== */
+form {
+    background: #ffffff;
+    width: 420px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+input, textarea {
+    width: 100%;
+    padding: 11px 14px;
+    margin-top: 12px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    font-size: 14px;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+    border-color: #2563eb;
+}
+
+textarea {
+    resize: none;
+    height: 90px;
+}
+
+/* ===== BUTTONS ===== */
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 18px;
+    background-color: #2563eb;
+    border: none;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #1e40af;
+}
+
+/* ===== ADMIN DASHBOARD MENU ===== */
+.menu {
+    max-width: 900px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+}
+
+.menu a {
+    background: #ffffff;
+    padding: 18px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 600;
+    color: #2563eb;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+}
+
+.menu a:hover {
+    background-color: #2563eb;
+    color: #ffffff;
+    transform: translateY(-3px);
+}
+
+/* ===== CARD SECTIONS ===== */
+.card-container {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+.card {
+    background: #ffffff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+}
+
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.card h3 {
+    margin: 18px 0 8px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.card p {
+    font-size: 14px;
+    padding: 0 15px 15px;
+    text-align: center;
+    color: #4b5563;
+}
+
+/* ===== TABLES ===== */
+table {
+    width: 95%;
+    margin: 40px auto;
+    background: #ffffff;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+th {
+    background-color: #0f172a;
+    color: #ffffff;
+    padding: 14px;
+    font-size: 14px;
+}
+
+td {
+    padding: 12px;
+    font-size: 14px;
+    text-align: center;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+td img {
+    width: 80px;
+    border-radius: 6px;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    margin-top: 60px;
+    background-color: #0f172a;
+    color: #ffffff;
+    text-align: center;
+    padding: 22px;
+    font-size: 14px;
+}
